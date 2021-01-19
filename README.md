@@ -1,13 +1,13 @@
 Test Technique iOS
 ---
 
-Pour iPhone, réaliser l'écran de connexion selon le mock suivant.
+Pour iPhone, réaliser un écran de connexion selon le mock ci-dessous.
 
 Les ressources visuelles sont disponibles dans le dépôt.
 
-Vous pouvez utiliser https://reqres.in/ pour effectuer les requêtes de login sur une vraie API.
+Vous pouvez utiliser https://reqres.in/ pour effectuer des requêtes de login sur une vraie API.
 
-Pour le rendu, vous pouvez passer par un dépôt GitHub et y inviter @maximelebastard.
+Pour le rendu, passez par un dépôt GitHub (y inviter @maximelebastard).
 
 Bonne chance :)
 
